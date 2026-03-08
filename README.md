@@ -1,11 +1,12 @@
 Hi 👋 I'm Eda
 
+
 🎓 Software Engineering student at Gümüşhane University
 
 💻 Interested in Data Science, Mobile Application Development, and Full-Stack Development
 
 
-🔧 Technologies & Tools
+##🔧 Technologies & Tools
 
 Languages: Python, C, C#, JavaScript  
 Backend: Django, Spring Boot  
@@ -14,7 +15,7 @@ Databases: MySQL, MS SQL, MongoDB
 Concepts: Object-Oriented Programming, REST APIs
 
 
-📌 Featured Project
+##📌 Featured Project
 
 🔹 Fish Population Monitoring System (OOP)
 Object-oriented model designed to simulate a fish monitoring system.
@@ -25,7 +26,7 @@ https://github.com/edaakkus/balik-gozlem-sistemi
 
 
 
-🌐 Contact
+##🌐 Contact
 
 📧 edaakkus05@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/eda-akku%C5%9F-3a00622b9/
