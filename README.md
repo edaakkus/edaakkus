@@ -14,22 +14,28 @@ Web: HTML, CSS, Bootstrap
 Databases: MySQL, MS SQL, MongoDB  
 Concepts: Object-Oriented Programming, REST APIs
 
+## 🚀 Projects
 
-## 📌 Featured Project
+### 🏥 MedTrack – Health Tracking System
+- Spring Boot based web application
+- REST API architecture
+- Role-based authentication system
+- GitHub: https://github.com/edaakkus/MedTrack
 
-🔹 Fish Population Monitoring System (OOP)
-Object-oriented model designed to simulate a fish monitoring system.
-Concepts used: Encapsulation, Inheritance, Polymorphism
+### 🧠 Medical Image Processing
+- Python
+- Image enhancement & edge detection
 
-Repository:
-https://github.com/edaakkus/balik-gozlem-sistemi
-
-
+### 🐟 Fish Monitoring System
+- C# OOP project
+- Simulation-based system
 
 ## 🌐 Contact
 
 📧 edaakkus05@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/eda-akku%C5%9F-3a00622b9/
+
 💻 GitHub: https://github.com/edaakkus
 
 <!--
