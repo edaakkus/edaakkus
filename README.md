@@ -60,10 +60,3 @@ I love building robust APIs, working with complex database architectures, and tu
 - **[SiteSpeedGuard](https://github.com/edaakkus/SiteSpeedGuard)** *(work in progress)*: Construction-site vehicle speed monitoring prototype using frame-difference video motion analysis (React Native, Firebase).
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edaakkus&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaakkus&layout=compact&theme=dark&hide_border=true" />
-</div>
